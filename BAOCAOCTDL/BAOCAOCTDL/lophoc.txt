@@ -1,0 +1,5 @@
+APT01, Toan cao cap, T2&T4 10:00-12:00, 1200000
+APT02, Mang may tinh, T3&T5 15:00-17:00, 3800000
+APT03, Cau truc du lieu & giai thuat, T2&T7 11:30-18:00, 2700000
+APT01, Toan cao cap, T2&T4 7:00-9:00, 1200000
+APT03, Triet hoc Mac-Lenin, T4&T6 10:00-12:001, 3200000
